@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="css/Form.css">
+</head>
+<body>
+    <div class="servey">
+        <form action="#" method="get">
+            <input class="Form_coltrol" minlength="5" maxlength="10" type="text" placeholder="Full name" required />
+            <input class="Form_coltrol" type="email" placeholder="email" required />
+            <input class="Form_coltrol" minlength="6" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,}" type="password" placeholder="password" required />
+            <input class="Form_coltrol" min="18" max="60" type="number" placeholder="age" />
+            <input class="Form_coltrol" type="date" placeholder="birthday" />
+            <input class="Form_coltrol" type="color" placeholder="My color" />
+            <input class="Form_coltrol" type="range" min="0" max="100" />
+            <p>Giới Tính</p>
+            <label><input name="sex" value="nam" type="radio" />Nam</label>
+            <label><input name="sex" value="nu" type="radio" />Nữ</label>
+            <label><input name="sex" value="khac" type="radio" />Khác</label>
+            <p>
+                <label><input required type="checkbox" name="confirm" />Tôi đã đọc và chấp nhận các điều khoản</label>
+            </p>
+            <p>Thành phố sinh sống</p>
+            <select name="city">
+                <option value="HN">Hà Nội</option>
+                <option value="SG">Sài Gòn</option>
+                <option value="CT">Cần Thơ</option>
+                <option value="ĐN">Đà Nẵng</option>
+                <option value="HP">Hải Phòng</option>
+            </select>
+            <p>Nhận xét:</p>
+            <textarea name="Comment" rows="10" cols="50" placeholder="Viết nhận xét của bạn.."></textarea>
+            <br/>
+            <button type="submit">Gửi đi</button>
+            <button type="button">Button</button>
+            <button type="reset">Reset</button>
+        </form>
+    </div>
+</body>
+</html>
