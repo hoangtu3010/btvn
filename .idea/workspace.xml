@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7009efdd-40a3-4598-b7de-b8ab088c529e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demobootstrap.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/lab6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lab7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/labs7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment2/lab3.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Libarys/Bootstrap 3.4.1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -43,6 +64,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV, VISUAL, C, WST\BTVN\Libarys\Bootstrap 3.4.1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +83,21 @@
       <workItem from="1602664766125" duration="862000" />
       <workItem from="1602739638833" duration="787000" />
       <workItem from="1602810709461" duration="12369000" />
-      <workItem from="1602859526318" duration="3488000" />
+      <workItem from="1602859526318" duration="3885000" />
+      <workItem from="1602991638282" duration="147000" />
+      <workItem from="1603033650181" duration="667000" />
+      <workItem from="1603071145921" duration="11000" />
+      <workItem from="1603071167715" duration="29000" />
+      <workItem from="1603071772747" duration="10444000" />
+      <workItem from="1603112324999" duration="14628000" />
+      <workItem from="1603168018716" duration="6151000" />
+      <workItem from="1603176113165" duration="3487000" />
+      <workItem from="1603187611885" duration="7319000" />
+      <workItem from="1603206759144" duration="13110000" />
+      <workItem from="1603249497880" duration="48359000" />
+      <workItem from="1603320518146" duration="1500000" />
+      <workItem from="1603322094729" duration="163000" />
+      <workItem from="1603339063285" duration="939000" />
     </task>
     <task id="LOCAL-00001" summary="labs4">
       <created>1602664810908</created>
@@ -73,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602665067195</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="labs6">
+      <created>1602863187743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602863187743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,24 +128,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="labs4" />
-    <option name="LAST_COMMIT_MESSAGE" value="labs4" />
+    <MESSAGE value="labs6" />
+    <option name="LAST_COMMIT_MESSAGE" value="labs6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="99" key="#Inspections" timestamp="1602650006844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="99" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1602650006844" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602665066767">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1602863185645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602665066767" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602863185645" />
     <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1602821256051">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602821256051" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1602665069589">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1602863205529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602665069589" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602863205529" />
   </component>
 </project>
