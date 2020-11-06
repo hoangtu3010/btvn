@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f7f7f7;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.article{
+    float: left;
+    width: 25%;
+}
+.article-body h4{
+    padding-top: 30px;
+}
+.aside{
+    float: left;
+    width: 75%;
+}
+.menu-1{
+    padding-top: 10px;
+}
+.menu-1 a{
+    color: #5e5e5e;
+    text-decoration: none;
+    transition: .2s;
+}
+.menu-1 a:hover{
+    color: black;
+}
+.menu-2{
+    padding-top: 10px;
+}
+.menu-2 a{
+    color: #5e5e5e;
+    text-decoration: none;
+    transition: .2s;
+}
+.menu-2 a:hover{
+    color: black;
+}
+.menu-2 i{
+    margin-right: 10px;
+    color: #e6e6e6;
+    font-size: 20px;
+    transition: .2s;
+}
+.aside-1{
+    padding-top: 40px;
+}
+.item-1{
+    border: 1px solid #d4d4d4;
+    border-radius: 8px;
+    background-color: #ffffff;
+    padding-bottom: 40px;
+}
+.item-1 .name{
+    padding-left: 15px;
+}
+.item-1 .name a:hover{
+    color: black;
+}
+.item-1 .price{
+    padding-left: 15px;
+}
+.item-1-1{
+    padding: 40px;
+}
+.item-1 p{
+    padding-right: 10px;
+}
+.star .star-box{
+    position: relative;
+    bottom: 28px;
+    left: 178px;
+    width: 70px;
+    height: 16px;
+    background-image: url("../imgs/star-off.png");
+    background-repeat: repeat-x;
+    background-size: 14px 14px;
+}
+.star .star-rate{
+    height: 16px;
+    background-image: url("../imgs/star-on.png");
+    background-repeat: repeat-x;
+    background-size: 14px 14px;
+}
+.item-1 .add{
+    height: 30px;
+    padding-top: 5px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+    cursor: pointer;
+    transition: .3s;
+}
+.add:hover{
+    background-color: #777777;
+}
+.add:hover a{
+    color: white;
+}
+.item-1 a{
+    color: #5e5e5e;
+    text-decoration: none;
+    transition: .2s;
+}
+.item-2{
+    font-size: 16px;
+    position: relative;
+    bottom: 370px;
+    left: 230px;
+}
+.item-2 a{
+    color: #5e5e5e;
+}
+.item-2 a:hover{
+    color: red;
+}
+.item-3{
+    font-size: 16px;
+    position: relative;
+    bottom: 365px;
+    left: 230px;
+}
+.item-3 a{
+    color: #5e5e5e;
+}
+.item-3 a:hover{
+    color: black;
+}
