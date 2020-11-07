@@ -2,29 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7009efdd-40a3-4598-b7de-b8ab088c529e" name="Default Changelist" comment="labs7">
-      <change afterPath="$PROJECT_DIR$/Assignment13.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Bootstrap.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Event.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Event2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Assignment13.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS/dongho.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS/event.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS/event2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/labs14.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Assignment13.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/demobootstrap.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/event.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/event2.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/lab6.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/lab7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/labs14.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demoJS2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dongho.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs14.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nhapso.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vietlot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/lab s13.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lab s13.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +117,12 @@
       <workItem from="1604474928566" duration="19764000" />
       <workItem from="1604554723132" duration="19000" />
       <workItem from="1604554777232" duration="24000" />
+      <workItem from="1604624964241" duration="1422000" />
+      <workItem from="1604627041571" duration="401000" />
+      <workItem from="1604627872534" duration="8134000" />
+      <workItem from="1604636763363" duration="73000" />
+      <workItem from="1604637899144" duration="412000" />
+      <workItem from="1604644078014" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="labs4">
       <created>1602664810908</created>
@@ -152,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604462362825</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Assignment13..">
+      <created>1604625083884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604625083884</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Assignment13">
+      <created>1604625519765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604625519765</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,24 +184,26 @@
     <MESSAGE value="labs6" />
     <MESSAGE value="labs7" />
     <MESSAGE value="labs13" />
-    <option name="LAST_COMMIT_MESSAGE" value="labs13" />
+    <MESSAGE value="Assignment13.." />
+    <MESSAGE value="Assignment13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="99" key="#Inspections" timestamp="1602650006844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="99" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1602650006844" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604462361765">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604625518607">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604462361765" />
-    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1604554792503">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604625518607" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1604644086923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604554792503" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1604462379915">
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604644086923" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1604625521611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604462379915" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604625521611" />
   </component>
 </project>
